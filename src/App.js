@@ -5,7 +5,6 @@ import NoResultMessage from './NoResultMessage/NoResultMessage';
 import './App.css';
 
 class App extends React.Component {
-
   constructor() {
     super();
 
