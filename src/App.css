@@ -1,0 +1,19 @@
+li {
+  list-style: none;
+}
+
+.App {
+  text-align: center;
+}
+
+.mt-small {
+  margin-top: 20px;
+}
+
+.mb-small {
+  margin-bottom: 20px;
+}
+
+.ml-small {
+  margin-left: 20px;
+}
